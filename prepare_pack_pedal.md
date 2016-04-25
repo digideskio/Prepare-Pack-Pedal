@@ -799,7 +799,7 @@ Avoid forks which are specced for dirt jumping - although they might have the ri
 
 Wheel choice for expedition biking is a personal one. I swear by the Sunn Rhyno Lite rims because they held up a long time and are still going strong. My wheels were built by a professional wheel builder at Leisure Lakes Bikes.
 
-### Rims
+#### Rims
 
 Choose a good set of rims. Rigida Sputnik 26″ and Sunn Rhyno Lite have a good reputation. The Sunn rims are double walled, welded and machined. Mavic rims tend to be avoided for touring use: they’re forged - which is lighter, but weaker. You can go for a lighter weight rim if you are planning on sticking to the roads.
 
@@ -811,7 +811,7 @@ You will need to check the rim for any knocks which may have caused a sharp spli
 
 The Sun Rhyno Lite rims are very strong. I’ve only had to true them a couple of times. They were built by Leisure Lakes Bikes and they are square and chunky. The rims have a v-braking surface if something was to go wrong with the disk brakes. I’ve also used them for off-roading in the Caucasus mountains. It would take something extraordinary to find something to better the design. They’re not the lightest, but they are incredibly durable with the 36 spoke build. A firm recommendation.
 
-### Spokes
+#### Spokes
 
 Ask your wheel builder for 36 spoke rims, which will offer more strength. In terms of size, a 26 inch rim is easier to find replacements for, compared to 700cc rims which you often find on ‘off the peg’ touring bikes.
 
@@ -823,17 +823,17 @@ Spray a small amount of WD40 on the inner side of the rim onto the spoke nipples
 
 </div>
 
-### Quick Release
+#### Quick Release
 
 Invest in decent quality quick releases. They’re an important component, seeing as they keep the wheel in place.
 
 ![](img/image031.jpg)
 
-### Tyres
+#### Tyres
 
 The Schwalbe Marathon XR, used by most other adventure cyclists, was the obvious choice for a long distance tour. No punctures for 7000km. Debris from a burnt out tyre in Iran and thorns on Indian roads did manage cause some punctures, but not many. They are a ‘fit and forget’ solution, with excellent grip on road and dirt tracks. The rolling resistance is slightly more than you would get with a slicker and thinner option.
 
-### Brakes
+#### Brakes
 
 Disk brake pads last longer than v-brake ones, especially with a great deal of weight on the bike. V-brake pads are also more fiddly to install. However, if the hydraulic brakes did fail then you’d have no brakes, which won’t happen with v-brakes.
 
@@ -883,7 +883,7 @@ I spent many frustrating minutes by the roadside trying to get them aligned prop
 
 ### Luggage 
 
-### Trailers
+#### Trailers
 
 ![](img/image037.jpg)
 
@@ -891,7 +891,7 @@ A trailer takes weight off the frame, making the bike more manoeuvrable. There a
 
 The Yak is extremely strong and sturdy with a steel frame and platform. It’s better for carrying larger objects (for example, carrying wood) and works well on light off-road use. The small wheel does not tackle the rockier stuff as well as the Extrawheel, with its 26 inch wheel, but the carrying space offered by the Yak with its huge bag is fantastic. It is generally more convenient to have all kit in the one bag and then separated into drybags, but it can be easy to forget which pannier you put stuff in.
 
-### Drybags 
+#### Drybags 
 
 ![](img/image039.jpg)
 
@@ -899,7 +899,7 @@ I strapped a 60 litre Extrawheel drybag on top of the rear pannier rack for hold
 
 A large drybag is something that could likely be dropped to save weight. On the Mongolia trip, I took a Decathlon roll-top, drybag-rucksack combo bag. I could then use this to carry the luggage on public transport.
 
-### Panniers
+#### Panniers
 
 The Carradice Super C panniers are well-regarded, long lasting and reliable. The pannier material is similar to an army kit bag: highly durable and quick drying. The attachment mechanism is durable and simple but over time this has worn and one of the clips has broken. The clips can be easily replaced.
 
@@ -954,7 +954,7 @@ Making adjustments to the position of things is important in improving comfort. 
 
 </div>
 
-### Brooks 
+#### Brooks 
 
 ![](img/image045.jpg)
 
