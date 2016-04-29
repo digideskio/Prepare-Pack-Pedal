@@ -184,13 +184,13 @@ by Andrew Welch
 
 ## Introduction
 
-In a world where we are increasingly cut off from our surroundings and environment, cycle touring offers a way for people to reconnect. There is a need and desire to simplify the standard tourist packaged adventure holidays and find alternative ways to explore and discover that genuinely open up the world to people. Adding a bit of risk into life is the key to discovery and finding meaning. Cycle touring is an excellent catalyst for this.
+In a world where we are increasingly cut off from our surroundings and environment, cycle touring offers a way to reconnect. There is a need and desire to simplify the standard tourist packaged adventure holidays and find alternative ways to explore and discover that genuinely open up the world to people. Adding a bit of risk into life can be the key to discovery and finding meaning. Cycle touring is an excellent catalyst for this.
 
 Cycle touring is also cheap and accessible to all. It doesn’t require, contrary to popular opinion, a lot of equipment, technical expertise, money or fitness. Everything in this practical guide can be accomplished on a tiny budget, and with no experience. The only thing you will need is a willingness to discover, openness to the unknown, and an acceptance of people and cultures.
 
 You don’t have to be strong, fit, male, or in any way athletic to go cycle touring. It’s just a means of transport. It’s also a brilliant way to travel because it’s cheap, gets you fit, and it puts you in contact with your environment and the people in the towns and countries you visit; borders are easier to cross; people are friendly because you turned up on a bike and treat you less like a tourist. Gradually, you get used to the travelling experience and feel less paranoia about riding in unknown territory or meeting nasty people along the way.
 
-Cycle touring is not something that is on a bucket list of 1000 ways to travel. It’s completely unique - ‘evolved’ even - and it has become very popular in its niche because it works. No other way of travelling will provide exactly the same kind of experience. You can go from A to B or you can go via the rest of the alphabet (and beyond). It’s up to you, the amount of time you have, how much you want to get away from the ‘main road culture’, and how deep you want to go into the experience.
+Cycle touring is not something that is on a bucket list of 1000 ways to travel. It’s completely unique - evolved even - and it has become very popular in its niche because it works. No other way of travelling will provide exactly the same kind of experience. You can go from A to B or you can go via the rest of the alphabet. It’s up to you, the amount of time you have, how much you want to get away from the ‘main road culture’, and how deep you want to go into the experience.
 
 Ultimately, cycle touring is when you get a bike - doesn’t really matter which one - put some bags on it with your stuff in it, check you have some money and your passport, point your bike at the horizon, and start pedalling. It’s all about cutting loose - but in a Western world, where it is commonly thought that decisions have to be qualified and rationalised before they can be made, a little information can help you make the most difficult step: leaving.
 
@@ -753,8 +753,7 @@ Mountain bikes have different geometry to touring bikes. They are designed to cl
 
 #### Remember:
 
-Fit your bike to your style of tour. If it’s not road, consider something from the Dawes, Surly or Claud Butler touring range. The Thorn Nomad touring-specific bike is a beautiful piece of engineering.
-
+Fit your bike to your style of tour. If you are sticking purely to the tarmac you can use road tyres and not worry too much about the wheels. If you are going to be riding on poor quality roads then you want something that has been designed to cope with some bumps. You can go for a more rugged tyre too.
 </div>
 
 ![](img/image023.jpg)
@@ -763,7 +762,33 @@ Fit your bike to your style of tour. If it’s not road, consider something from
 
 Some older frames had more laid back geometry, which means that they encouraged the rider to push higher gears and put more force on the knee joint. A further forward seated position means you will be more inclined to spin the cranks using lower gears.
 
-Frames worth considering include the Orange P7, On One Inbred / 456, Kona Explosif, Genesis altitude, Handsome Dog Talisman (cheap) and Orange R8. Some others with no rack eyelets are Evil Sovereign, Pipedream Cirus, Charge Duster and Cotic Soul, which would be fine with a trailer.
+Frames worth considering:
+
+#####Touring specific
+- [Soma Saga](http://www.somafab.com/bikes-frames/frames)
+
+
+
+If it’s not road, consider something from the Dawes, Surly or Claud Butler touring range. The Thorn Nomad touring-specific bike is a beautiful piece of engineering.
+
+
+#####Mountain bike
+Updated 29.4.16
+- [Ritchey Ascent](http://ritcheylogic.com/frames/mountain)
+- Orange P7
+- On One Inbred / 456
+- Kona Explosif
+- Genesis altitude
+- Handsome Dog Talisman (cheap)
+- Orange R8. 
+
+Some others with no rack eyelets:
+
+Without rack eyelets you can either use a converter which clamps to the frame or use a trailer.
+- [Independent Fabrications Steel Deluxe](http://ifbikes.com/Bikes/steel-deluxe/)
+- Pipedream Sirius (Reynolds 853) [Link](http://www.pipedreamcycles.co.uk/shop/sirius-r853/)
+- Charge Duster
+- Cotic Soul, which would be fine with a trailer.
 
 In conclusion, for a long distance tour in a place where the roads disappear (like Mongolia) a mountain bike frame is a good choice. Otherwise, a steel touring-specific frame will be fine.
 
@@ -867,7 +892,7 @@ Handlebar choice is a very personal thing. Butterfly handlebars are a popular ch
 
 ### Riser vs. Flat handlebars
 
-At first, I used DMR chromoly riser handlebars, which were a massive overcompensation for strength. They weighed a lot and I found they had a sweep back which was uncomfortable on the palms of my hands after long periods of riding. I swapped to flat bars, which I used-in, and they were more comfortable.
+At first, I used DMR chromoly riser handlebars, which were a massive overcompensation for strength. They weighed a lot and I found they had a sweep back which was uncomfortable on the palms of my hands after long periods of riding. I swapped to flat bars and they were more comfortable.
 
 </div>
 
@@ -887,7 +912,7 @@ I spent many frustrating minutes by the roadside trying to get them aligned prop
 
 ![](img/image037.jpg)
 
-A trailer takes weight off the frame, making the bike more manoeuvrable. There are two industry-standard trailers to use: the Extrawheel Voyager trailer and the BOB Yak trailer. The Extrawheel has an extremely simple design with the panniers attaching onto a lightweight frame. It is good on rougher terrain (the best option for mountain biking) and the spring metal fork attachment is more reliable than the attachment on the BOB Yak trailer, which uses lynch-pins that are attached by pieces of rubber and easy to lose.
+A trailer takes weight off the frame, making the bike more manoeuvrable. As of writing, there are two industry-standard trailers to use: the Extrawheel Voyager trailer and the BOB Yak trailer. The Extrawheel has an extremely simple design with the panniers attaching onto a lightweight frame. It is good on rougher terrain (the best option for mountain biking) and the spring metal fork attachment is more reliable than the attachment on the BOB Yak trailer, which uses lynch-pins that are attached by pieces of rubber and easy to lose.
 
 The Yak is extremely strong and sturdy with a steel frame and platform. It’s better for carrying larger objects (for example, carrying wood) and works well on light off-road use. The small wheel does not tackle the rockier stuff as well as the Extrawheel, with its 26 inch wheel, but the carrying space offered by the Yak with its huge bag is fantastic. It is generally more convenient to have all kit in the one bag and then separated into drybags, but it can be easy to forget which pannier you put stuff in.
 
