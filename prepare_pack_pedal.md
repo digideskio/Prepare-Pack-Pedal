@@ -551,7 +551,11 @@ I have compiled a recommended kit list based on my own equipment. Adapt it for y
 -   Crank extractor tool
 -   Cone spanners
 
-#### Bike (mountain bike specific)
+#### Bike 
+
+The best guide to touring bikes online at present is on the [Cycling About website](http://cyclingabout.com/a-complete-list-of-touring-bicycle-manufacturers-with-prices/).
+
+My old touring set up (between 2007 and 2013)
 
 -   Kona Explosif (or equivalent steel frame)
 -   Sun Rhyno Lite Rims on Shimano XT hubs with DT Swiss butted stainless spokes (or equivalent strong rims)
