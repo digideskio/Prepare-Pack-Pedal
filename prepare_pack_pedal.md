@@ -760,11 +760,9 @@ Fit your bike to your style of tour. If you are sticking purely to the tarmac yo
 
 ![](img/image023.jpg)
 
-#### Frame
-
-Some older frames had more laid back geometry, which means that they encouraged the rider to push higher gears and put more force on the knee joint. A further forward seated position means you will be more inclined to spin the cranks using lower gears.
-
 The best guide to touring bikes online at present is on the [Cycling About website](http://cyclingabout.com/a-complete-list-of-touring-bicycle-manufacturers-with-prices/).
+
+#### Frame
 
 Frames worth considering:
 
