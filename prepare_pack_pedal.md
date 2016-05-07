@@ -553,8 +553,6 @@ I have compiled a recommended kit list based on my own equipment. Adapt it for y
 
 #### Bike 
 
-The best guide to touring bikes online at present is on the [Cycling About website](http://cyclingabout.com/a-complete-list-of-touring-bicycle-manufacturers-with-prices/).
-
 My old touring set up (between 2007 and 2013)
 
 -   Kona Explosif (or equivalent steel frame)
@@ -766,15 +764,14 @@ Fit your bike to your style of tour. If you are sticking purely to the tarmac yo
 
 Some older frames had more laid back geometry, which means that they encouraged the rider to push higher gears and put more force on the knee joint. A further forward seated position means you will be more inclined to spin the cranks using lower gears.
 
+The best guide to touring bikes online at present is on the [Cycling About website](http://cyclingabout.com/a-complete-list-of-touring-bicycle-manufacturers-with-prices/).
+
 Frames worth considering:
 
 #####Touring specific
 - [Soma Saga](http://www.somafab.com/bikes-frames/frames)
 
-
-
 If it’s not road, consider something from the Dawes, Surly or Claud Butler touring range. The Thorn Nomad touring-specific bike is a beautiful piece of engineering.
-
 
 #####Mountain bike
 Updated 29.4.16
